@@ -2,14 +2,14 @@ title: "Amlan Das"
 email: "contact@amlandas.in"
 description: "CV and blogs by Amlan Das"
 baseurl: "/amlandas.in"
-url: "https://AmlanDas1998.github.io"
+url: "https://amlandas1998.github.io"
 repository: "AmlanDas1998/amlandas.in"
 
-# Theme settings
 remote_theme: mmistakes/minimal-mistakes
 minimal_mistakes_skin: "default"
 
 plugins:
+  - jekyll-remote-theme
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-include-cache
@@ -28,7 +28,6 @@ defaults:
       share: true
       related: true
 
-# Navigation (Navbar)
 nav:
   - title: "Home"
     url: "/"
