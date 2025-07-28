@@ -1,0 +1,13 @@
+---
+layout: home
+author_profile: true
+title: "Welcome to my website"
+excerpt: "This is my professional profile + blog"
+---
+
+Hi, I’m **Amlan Das** – a financial services professional working in India’s fast-growing Account Aggregator ecosystem.
+
+Explore my:
+- 📄 [Resume](/assets/AmlanDasCV.pdf)
+- 📝 Blog posts below
+- 💼 [LinkedIn Profile](https://www.linkedin.com/in/amlan-das-600839140/)
