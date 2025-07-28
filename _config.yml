@@ -1,0 +1,28 @@
+title: "Amlan Das"
+email: "contact@amlandas.in"
+description: "CV and blogs by Amlan Das"
+baseurl: ""
+url: "https://AmlanDas1998.github.io"
+repository: "AmlanDas1998/amlandas.in"
+
+theme: minimal-mistakes-jekyll
+minimal_mistakes_skin: default
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-include-cache
+
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: false
+      share: true
+      related: true
+
+markdown: kramdown
