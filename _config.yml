@@ -26,3 +26,11 @@ defaults:
       related: true
 
 markdown: kramdown
+# Add this to your _config.yml if not already added
+nav:
+  - title: "Home"
+    url: /
+  - title: "About"
+    url: /about/
+  - title: "CV"
+    url: /cv/
